@@ -1,0 +1,21 @@
+menginisiasi git/ merubah folder biasa menjadi repository
+git init
+
+menyiapkan file untk dimasukan ken repository
+git add .
+
+memasukan file ke dalam repository
+git commit -m " "
+ 
+confi untuk conect ke github
+git config --global user.name "username"
+git config --global user.email "email"
+
+memasukanke github
+git push origin main/master
+
+mengambil darigithub
+git pull origin main/master
+
+cloning dari git hub
+git clone
